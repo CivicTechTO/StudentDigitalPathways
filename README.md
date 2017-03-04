@@ -43,8 +43,18 @@ Who will use the output?
 MAESD is currently working on a broader digital strategy for Labour Market Information.  This challenge will inform the development of future tools that emerge from the digital strategy to help Ontarians be able to better plan and prepare for future careers.  
  
 Available data:
+---
+**Dataset in this repo**
+There are two folders that contain all the datasets:
+1. XLSX
+2. CSV
 
+The XLSX folder contains all the raw xlsx sheets provided by the challenge owner.
+The CSV folder contains the broken down datasets for each xlsx workbook, meaning in the CSV folder each worksheet from the XLSX workbook has been exported as its own individual csv.
+
+**Via Google Docs**
 https://drive.google.com/drive/folders/0B_LkTGwjvRGdV0FKTUpva0tYWk0?usp=sharing 
+
  
 **Canadian Occupational Projection System:** Ontario employment projections for 147 occupations which employ college graduates – Variables 2013 Ontario Job Futures Rating, Forecast Employment Levels, Forecast Employment Change, Forecast Attrition and Forecast Total Job Openings.
  
