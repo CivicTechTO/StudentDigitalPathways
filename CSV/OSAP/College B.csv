@@ -1,0 +1,131 @@
+CollegeName,ProgramName,DefaultRate,RAPRate,NetCombinedRate,#Borrowers,#Defaults,#RAP,Net#RapDefault
+,,(2)/(1),(3)/(1),(4)/(1),(1),(2),(3),(4)
+B,Advanced Care Paramedic,*,*,*,*,*,*,*
+B,Advanced Security Management,0.000,0.250,0.250,8,0,2,2
+B,Advertising,0.143,0.214,0.286,14,2,3,4
+B,Art Fundamentals,0.176,0.176,0.294,17,3,3,5
+B,BACHELOR OF APPLIED BUSINESS - INTERNATIONAL BUSINESS MGMT,0.000,0.474,0.474,19,0,9,9
+B,Bachelor Of Applied Arts (interior Design),*,*,*,*,*,*,*
+B,Bachelor of Applied Arts (Public Relations),0.111,0.333,0.444,9,1,3,4
+B,Bachelor Of Applied Health Sciences (Health Informatics Management),*,*,*,*,*,*,*
+B,Bachelor of Applied Human Services (Community and Criminal Justice),0.000,0.474,0.474,19,0,9,9
+B,Bachelor Of Applied Technology (Architecture - Project And Facility Management),0.000,0.179,0.179,28,0,5,5
+B,Bachelor Of Applied Technology (Integrated Advanced Manufacturing Technologies),0.000,0.000,0.000,9,0,0,0
+B,Bachelor Of Applied Technology (Integrated Telecommunication And Computer Technologies),*,*,*,*,*,*,*
+B,Bartending,0.286,0.143,0.429,7,2,1,3
+B,BIOTECHNOLOGY TECHNICIAN,4.3478260869565216E-2,0.522,0.522,23,1,12,12
+B,Bookkeeping,0.111,0.333,0.444,9,1,3,4
+B,Bridge to Practical Nursing for Internationally Educated Health Professionals,0.000,0.200,0.200,5,0,1,1
+B,Broadcasting - Radio,7.6923076923076927E-2,0.308,0.385,13,1,4,5
+B,Broadcasting - Television,0.100,0.400,0.400,10,1,4,4
+B,Business,0.111,0.356,0.422,45,5,16,19
+B,Business - Marketing,0.000,0.316,0.316,19,0,6,6
+B,Business - Purchasing,*,*,*,*,*,*,*
+B,Business Administration,5.8823529411764705E-2,0.147,0.206,34,2,5,7
+B,Business Administration - Accounting,7.4626865671641784E-2,0.403,0.478,67,5,27,32
+B,Business Administration - Marketing,0.152,0.364,0.515,33,5,12,17
+B,Business Administration - Materials And Operations Management,0.136,9.0909090909090912E-2,0.227,22,3,2,5
+B,Business Fundamentals,0.333,0.417,0.625,24,8,10,15
+B,Career Development Practitioner,8.3333333333333329E-2,0.583,0.583,12,1,7,7
+B,Civil Engineering Technology,0.000,0.281,0.281,32,0,9,9
+B,Collaborative Nursing,2.5316455696202531E-2,0.127,0.152,79,2,10,12
+B,Computer Applications Development,0.000,0.286,0.286,7,0,2,2
+B,Computer Engineering Technology,0.188,0.250,0.438,16,3,4,7
+B,Computer Networking And Technical Support,0.000,0.714,0.714,7,0,5,5
+B,Computer Programmer,0.000,0.286,0.286,7,0,2,2
+B,Computer Programmer Analyst,0.188,0.125,0.250,16,3,2,4
+B,Construction Engineering Technology,0.000,0.172,0.172,29,0,5,5
+B,Construction Techniques,9.0909090909090912E-2,6.0606060606060608E-2,0.152,33,3,2,5
+B,Court And Administrative Tribunal Agent,4.7619047619047616E-2,0.429,0.476,21,1,9,10
+B,Culinary Management,0.176,0.294,0.471,17,3,5,8
+B,Culinary Skills - Chef Training,0.312,6.25E-2,0.375,16,5,1,6
+B,DIETETIC TECHNICIAN,0.000,0.571,0.571,7,0,4,4
+B,Early Childhood Education,4.6728971962616821E-2,0.308,0.355,107,5,33,38
+B,Electrical Engineering Technician,4.2553191489361701E-2,0.149,0.191,47,2,7,9
+B,Electrical Engineering Technology,0.000,0.176,0.176,17,0,3,3
+B,Electronics Engineering Technician,0.000,0.000,0.000,5,0,0,0
+B,Electronics Engineering Technology,5.2631578947368418E-2,0.263,0.316,19,1,5,6
+B,Energy Systems Engineering Technology,*,*,*,*,*,*,*
+B,Environmental Control,0.000,0.444,0.444,9,0,4,4
+B,Event Management,0.000,0.286,0.286,7,0,2,2
+B,Financial Planning Management,0.000,0.250,0.250,12,0,3,3
+B,Fitness And Health Promotion,0.000,0.133,0.133,15,0,2,2
+B,Food And Beverage Management,*,*,*,*,*,*,*
+B,Food Processing Technician,*,*,*,*,*,*,*
+B,General Arts And Science,0.118,0.419,0.495,93,11,39,46
+B,General Arts And Science - One-year,0.286,0.286,0.476,21,6,6,10
+B,Global Business Management,*,*,*,*,*,*,*
+B,Government Administration,*,*,*,*,*,*,*
+B,Graphic Design,6.25E-2,0.125,0.188,16,1,2,3
+B,Health Office Administration,0.100,0.267,0.333,30,3,8,10
+B,Hearing Instrument Specialist,0.000,0.286,0.286,14,0,4,4
+B,"Heating, Refrigeration And Air Conditionning Technician",0.000,0.188,0.188,16,0,3,3
+B,Heavy Equipment  Operator,0.000,7.1428571428571425E-2,7.1428571428571425E-2,14,0,1,1
+B,Hospitality And Tourism Management,0.167,0.167,0.333,6,1,1,2
+B,HOSPITALITY OPER - FOOD & BEVERAGE,*,*,*,*,*,*,*
+B,Human Services Foundation,0.286,0.286,0.524,21,6,6,11
+B,Human Services Management,0.000,0.444,0.444,9,0,4,4
+B,Insurance,0.000,0.188,0.188,16,0,3,3
+B,Interior Decorating,0.100,0.350,0.450,20,2,7,9
+B,IT Innovation and Design,*,*,*,*,*,*,*
+B,JOURNALISM - BROADCAST,0.200,0.400,0.600,5,1,2,3
+B,Journalism - Print,0.200,0.200,0.400,10,2,2,4
+B,Journalism - Print And Broadcasting,0.333,0.333,0.500,6,2,2,3
+B,Law And Security Administration,0.105,0.267,0.360,86,9,23,31
+B,Manufacturing Technician - Wood Products,8.3333333333333329E-2,8.3333333333333329E-2,0.167,12,1,1,2
+B,Manufacturing Technology - Wood Products,0.000,7.6923076923076927E-2,7.6923076923076927E-2,13,0,1,1
+B,Masonry Techniques,0.333,0.000,0.333,6,2,0,2
+B,MECH. TECH. COOP/APP - TOOL & DIE,*,*,*,*,*,*,*
+B,MECH. TECH. COOP/APP - GENERAL MACH,*,*,*,*,*,*,*
+B,Mechanical Engineering Technician,*,*,*,*,*,*,*
+B,Mechanical Engineering Technology,3.8461538461538464E-2,0.154,0.154,26,1,4,4
+B,Mechanical Techniques,0.111,0.111,0.222,18,2,2,4
+B,Motive Power Fundaments,7.0175438596491224E-2,0.386,0.439,57,4,22,25
+B,Motive Power Technician,0.105,0.158,0.211,19,2,3,4
+B,Motive Power Techniques - Heavy Equipment,0.143,0.143,0.286,7,1,1,2
+B,Occupational Therapist Assistant/physiotherapist Assistant (ota/pta),9.0909090909090912E-2,0.455,0.545,11,1,5,6
+B,Office Administration - Executive,0.129,0.452,0.548,31,4,14,17
+B,Office Administration - General,5.8823529411764705E-2,0.353,0.412,17,1,6,7
+B,Office Administration - Legal,5.2631578947368418E-2,0.421,0.474,19,1,8,9
+B,Paramedic,0.000,0.400,0.400,10,0,4,4
+B,Personal Financial Services,*,*,*,*,*,*,*
+B,PERSONAL SUPPORT WORKER,0.109,0.382,0.473,55,6,21,26
+B,Police Foundations,0.160,0.320,0.480,25,4,8,12
+B,Powerline Technician,0.000,0.000,0.000,6,0,0,0
+B,Practical Nursing,4.0983606557377046E-2,0.221,0.262,122,5,27,32
+B,Pre-media,0.333,0.222,0.556,9,3,2,5
+B,Preparatory Health Sciences,7.407407407407407E-2,0.370,0.407,27,2,10,11
+B,Pre-service Firefighter Education And Training,3.4482758620689655E-2,0.103,0.103,29,1,3,3
+B,Professional Accounting Practice,0.000,0.600,0.600,15,0,9,9
+B,Project Management,*,*,*,*,*,*,*
+B,Public Relations,0.120,0.480,0.600,25,3,12,15
+B,Public Service,0.000,0.556,0.556,9,0,5,5
+B,Recreation And Leisure Services,0.130,0.261,0.391,23,3,6,9
+B,Registered Nurse - Critical Care Nursing,*,*,*,*,*,*,*
+B,Renewable Energy Techniques,*,*,*,*,*,*,*
+B,RENOVATION TECHNICIAN,0.200,0.100,0.250,20,4,2,5
+B,Respiratory Therapy,0.040,0.200,0.240,25,1,5,6
+B,Social Service Worker,0.125,0.458,0.500,24,3,11,12
+B,Software Engineering Technician,0.000,0.333,0.333,15,0,5,5
+B,Teachers Of English As A Second/foreign Language,0.000,0.538,0.538,13,0,7,7
+B,Video Journalism And Documentary Production,*,*,*,*,*,*,*
+B,Visual Merchandising Arts,0.235,0.353,0.588,17,4,6,10
+B,Welding Engineering Technician,0.000,0.200,0.200,5,0,1,1
+B,Welding Engineering Technology,0.000,0.111,0.111,9,0,1,1
+B,WELDING FITTER,0.000,0.125,0.125,8,0,1,1
+B,Welding Techniques,0.125,0.125,0.250,8,1,1,2
+B,ALL PROGRAMS - COLLEGE B,8.2517482517482518E-2,0.284,0.352,2145,177,609,755
+
+,ALL PROGRAMS - ALL COLLEGES - Weighted Average ,0.108,0.342,0.434,48832,5250,16722,21171
+
+Notes: ,,,,,,,,
+Loans enter repayment 6 month after full-time studies.,,,,,,,,
+Default rates and Repayment Assistance Plan Usage rates are measured 2 years after the end of the OSAP study year.,,,,,,,,
+"To be considered for repayment assistance borrowers must: be in good standing (not in default); apply to the National Student Loans Service Centre; and report post-study family income (borrower income, plus spousal income if applicable) and family size.",,,,,,,,
+Borrowers with post-study family income below the minimum threshold for their family size are exempt from making payments.,,,,,,,,
+Borrowers with post-study family income above the minimum threshold for their family size may qualify for a reduced monthly payment.,,,,,,,,
+90% of Repayment Assistance Plan Approvals are for zero payment.,,,,,,,,
+Each term of repayment assistance approval is for six months and borrowers can reapply.,,,,,,,,
+Default occurs upon reaching 270 days of missed payments.,,,,,,,,
+Borrowers who are in default are ineligible for Repayment Assistance.  ,,,,,,,,
+"* Number of Borrowers was fewer than five, program counts are not shown but counts are included in the institution total. ",,,,,,,,

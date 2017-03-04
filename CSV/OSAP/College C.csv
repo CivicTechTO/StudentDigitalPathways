@@ -1,0 +1,69 @@
+CollegeName,ProgramName,DefaultRate,RAPRate,NetCombinedRate,#Borrowers,#Defaults,#RAP,Net#RapDefault
+,,(2)/(1),(3)/(1),(4)/(1),(1),(2),(3),(4)
+C,Aircraft Structural Repair Technician,7.6923076923076927E-2,0.154,0.231,13,1,2,3
+C,Aviation Flight Technology,0.000,0.517,0.517,29,0,15,15
+C,Building Inspection Technician,0.273,0.364,0.545,11,3,4,6
+C,Business,0.222,0.000,0.222,9,2,0,2
+C,Business - Accounting,0.375,0.250,0.625,8,3,2,5
+C,Business Management,*,*,*,*,*,1,1
+C,Child And Youth Worker,0.143,0.500,0.643,14,2,7,9
+C,Civil Engineering Technician,0.333,0.333,0.667,6,2,2,4
+C,Collaborative Nursing,2.2727272727272728E-2,0.227,0.250,44,1,10,11
+C,Community Integration Through Co-operative Education,*,*,*,*,*,1,1
+C,Computer Programmer,0.400,0.600,0.800,5,2,3,4
+C,Construction Techniques,6.6666666666666666E-2,0.333,0.400,15,1,5,6
+C,Culinary Management,*,*,*,*,*,3,4
+C,Culinary Skills - Chef Training,*,*,*,*,*,1,1
+C,Early Childhood Education,0.381,0.286,0.619,21,8,6,13
+C,Electrical Engineering Technician,0.294,0.176,0.471,17,5,3,8
+C,Electrical Engineering Technology,*,*,*,*,*,1,1
+C,Environmental Technician,0.200,0.000,0.200,5,1,0,1
+C,Environmental Technology,0.222,0.333,0.556,9,2,3,5
+C,Esthetician,0.214,0.429,0.643,14,3,6,9
+C,Fish And Wildlife Technician,0.333,0.167,0.500,24,8,4,12
+C,Fitness And Health Promotion,*,*,*,*,*,2,2
+C,Forestry Technician,0.286,0.571,0.714,7,2,4,5
+C,Game Design And Development,0.100,0.300,0.400,10,1,3,4
+C,General Arts And Science,0.143,0.429,0.571,14,2,6,8
+C,General Arts And Science - One-year,0.500,0.333,0.833,6,3,2,5
+C,Geographic Information Systems,0.000,0.417,0.417,12,0,5,5
+C,Graphic Design,0.167,0.333,0.500,6,1,2,3
+C,HAIRSTYLING,0.235,0.471,0.647,17,4,8,11
+C,Hospitality Management,*,*,*,*,*,2,2
+C,Law And Security Administration,0.000,0.400,0.400,5,0,2,2
+C,Machine Shop,6.6666666666666666E-2,0.400,0.467,15,1,6,7
+C,Manufacturing Engineering Technician,0.143,0.143,0.286,7,1,1,2
+C,MARINE & SMALL POWERED EQUIPMENT,*,*,*,*,*,1,2
+C,Mechanical Engineering Technology,0.111,0.222,0.333,9,1,2,3
+C,Metal Fabrication Technician,0.250,0.438,0.688,16,4,7,11
+C,Motive Power Fundamentals,*,*,*,*,*,1,1
+C,Motive Power Technician,0.167,8.3333333333333329E-2,0.250,12,2,1,3
+C,Motive Power Techniques - Heavy Equipment,*,*,*,*,*,1,2
+C,Natural Resources - Law Enforcement,0.000,0.125,0.125,8,0,1,1
+C,Occupational Therapist Assistant/physiotherapist Assistant (ota/pta),0.154,0.154,0.308,13,2,2,4
+C,Office Administration - Executive,0.375,0.250,0.625,8,3,2,5
+C,Peace and Conflict Studies,*,*,*,*,*,2,3
+C,Personal Support Worker,0.275,0.400,0.600,40,11,16,24
+C,Pharmacy Technician,0.100,0.400,0.400,10,1,4,4
+C,Police Foundations,0.240,0.360,0.600,25,6,9,15
+C,Practical Nursing,2.9411764705882353E-2,0.412,0.441,34,1,14,15
+C,Preparatory Health Sciences,0.385,0.385,0.692,13,5,5,9
+C,Pre-technology,*,*,*,*,*,0,2
+C,Public Relations and Event Management,*,*,*,*,*,2,2
+C,Social Service Worker,0.286,0.143,0.429,14,4,2,6
+C,Welding Techniques,0.556,0.000,0.556,9,5,0,5
+C,ALL PROGRAMS - COLLEGE C,0.194,0.333,0.504,583,113,194,294
+
+,ALL PROGRAMS - ALL COLLEGES - Weighted Average ,0.108,0.342,0.434,48832,5250,16722,21171
+
+Notes: ,,,,,,,,
+Loans enter repayment 6 month after full-time studies.,,,,,,,,
+Default rates and Repayment Assistance Plan Usage rates are measured 2 years after the end of the OSAP study year.,,,,,,,,
+"To be considered for repayment assistance borrowers must: be in good standing (not in default); apply to the National Student Loans Service Centre; and report post-study family income (borrower income, plus spousal income if applicable) and family size.",,,,,,,,
+Borrowers with post-study family income below the minimum threshold for their family size are exempt from making payments.,,,,,,,,
+Borrowers with post-study family income above the minimum threshold for their family size may qualify for a reduced monthly payment.,,,,,,,,
+90% of Repayment Assistance Plan Approvals are for zero payment.,,,,,,,,
+Each term of repayment assistance approval is for six months and borrowers can reapply.,,,,,,,,
+Default occurs upon reaching 270 days of missed payments.,,,,,,,,
+Borrowers who are in default are ineligible for Repayment Assistance.  ,,,,,,,,
+"* Number of Borrowers was fewer than five, program counts are not shown but counts are included in the institution total. ",,,,,,,,

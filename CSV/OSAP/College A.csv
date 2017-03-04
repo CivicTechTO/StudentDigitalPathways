@@ -1,0 +1,309 @@
+CollegeName,ProgramName,DefaultRate,RAPRate,NetCombinedRate,#Borrowers,#Defaults,#RAP,Net#RapDefault
+,,(2)/(1),(3)/(1),(4)/(1),(1),(2),(3),(4)
+A,Accounting Clerk - Microcomputer,0.000,0.545,0.545,11,0,6,6
+A,Advertising,0.167,0.278,0.444,18,3,5,8
+A,Advertising - Account Management,0.000,0.222,0.222,18,0,4,4
+A,Animation - Television,8.3333333333333329E-2,0.250,0.333,12,1,3,4
+A,Architectural Technician,0.000,0.500,0.500,10,0,5,5
+A,Architectural Technology,0.107,0.500,0.571,28,3,14,16
+A,Art Fundamentals,0.200,0.400,0.600,20,4,8,12
+A,Auto Body Repair Techniques,0.125,0.250,0.350,40,5,10,14
+A,AUTOMOTIVE SERVICE TECH CO-OP,0.333,0.222,0.444,9,3,2,4
+A,AUTOMOTIVE SERVICE TECHNICIAN,0.000,0.286,0.286,7,0,2,2
+A,Aviation Technician - Aircraft Maintenance,3.5294117647058823E-2,0.259,0.294,85,3,22,25
+A,Aviation Technician - Avionics Maintenance,0.000,0.368,0.368,19,0,7,7
+A,Bachelor of Applied Business (Integrated Accounting And IT Mgmt),*,*,*,*,*,*,*
+A,Bachelor Of Applied Information Sciences (Computer And Communication Networking),0.000,0.333,0.333,9,0,3,3
+A,Bachelor Of Applied Information Sciences (Software Systems),0.000,0.875,0.875,8,0,7,7
+A,Baking - Pre-employment,0.125,0.500,0.625,8,1,4,5
+A,Biomedical Engineering Technology,0.105,0.474,0.526,19,2,9,10
+A,Biotechnology Technologist,0.108,0.595,0.676,37,4,22,25
+A,Book And Magazine Publishing,0.000,0.409,0.409,22,0,9,9
+A,Bridging To University Nursing,0.103,0.282,0.385,39,4,11,15
+A,Broadcasting - Radio And Television,0.167,0.405,0.571,42,7,17,24
+A,Business,0.200,0.400,0.600,10,2,4,6
+A,Business - Accounting,6.25E-2,0.438,0.438,32,2,14,14
+A,Business - Marketing,5.8823529411764705E-2,0.529,0.588,17,1,9,10
+A,Business - Operations,0.286,0.429,0.714,7,2,3,5
+A,Business Administration,0.229,0.314,0.543,35,8,11,19
+A,Business Administration - Accounting,4.3478260869565216E-2,0.725,0.754,69,3,50,52
+A,Business Administration - Human Resources,0.255,0.545,0.764,55,14,30,42
+A,Business Administration - International Business,0.000,0.538,0.538,13,0,7,7
+A,Business Administration - Marketing,0.000,0.467,0.467,15,0,7,7
+A,Business Administration - Materials And Operations Management,0.100,0.300,0.400,10,1,3,4
+A,Business Management,0.000,0.778,0.778,18,0,14,14
+A,Chemical Engineering Technician,0.333,0.167,0.500,6,2,1,3
+A,Chemical Engineering Technology,4.3478260869565216E-2,0.435,0.478,23,1,10,11
+A,Child And Youth Worker,0.211,0.522,0.678,90,19,47,61
+A,"Children's Entertainment: Writing, Production and Management",0.000,0.500,0.500,8,0,4,4
+A,Collaborative Nursing,0.000,0.267,0.267,15,0,4,4
+A,Community And Justice Services,0.137,0.549,0.667,51,7,28,34
+A,Community Development Work,0.571,0.286,0.857,7,4,2,6
+A,Computer Engineering Technician,*,*,*,*,*,*,*
+A,Computer Engineering Technology,0.000,0.429,0.429,7,0,3,3
+A,Computer Repair And Maintenance,0.125,0.625,0.750,8,1,5,6
+A,Computer Systems Technician,0.105,0.526,0.579,19,2,10,11
+A,Computer Systems Technology,0.000,0.457,0.457,35,0,16,16
+A,Construction Management,*,*,*,*,*,*,*
+A,Contact Centre Operations,0.000,0.417,0.417,12,0,5,5
+A,Court And Administrative Tribunal Agent,7.1428571428571425E-2,0.554,0.589,56,4,31,33
+A,Court Reporting - Stenomask,0.211,0.579,0.737,19,4,11,14
+A,Culinary Management,*,*,*,*,*,*,*
+A,Culture and Heritage Site Management,0.000,0.400,0.400,10,0,4,4
+A,Day Care Assistant,0.154,0.385,0.462,13,2,5,6
+A,Developmental Services Worker,0.154,0.692,0.769,13,2,9,10
+A,Drafting Technician,*,*,*,*,*,*,*
+A,Early Childhood Education,5.7971014492753624E-2,0.486,0.529,138,8,67,73
+A,ELEC:CON & MAIN-ELEC ENG TECH,*,*,*,*,*,*,*
+A,Electrical Engineering Technician,0.250,0.250,0.438,16,4,4,7
+A,Electro-mechanical Engineering Technician,0.000,0.500,0.500,6,0,3,3
+A,Electro-mechanical Engineering Technology,0.000,0.176,0.176,17,0,3,3
+A,Electronics Engineering Technician,0.167,0.417,0.583,12,2,5,7
+A,Electronics Engineering Technology,0.167,0.167,0.250,12,2,2,3
+A,Energy Systems Engineering Technician,0.000,0.333,0.333,6,0,2,2
+A,Energy Systems Engineering Technology,0.133,0.400,0.533,15,2,6,8
+A,Environmental Technician,*,*,*,*,*,*,*
+A,Environmental Technology,6.25E-2,0.375,0.438,16,1,6,7
+A,Esthetician,5.5555555555555552E-2,0.611,0.667,18,1,11,12
+A,Event Management,*,*,*,*,*,*,*
+A,Financial Services,0.154,0.577,0.692,26,4,15,18
+A,Fine Arts And Crafts,0.000,0.875,0.875,8,0,7,7
+A,Fitness And Health Promotion,*,*,*,*,*,*,*
+A,Food And Beverage Management,0.143,0.143,0.286,7,1,1,2
+A,Food And Beverage Service,*,*,*,*,*,*,*
+A,Food And Nutrition Management,0.000,0.405,0.405,42,0,17,17
+A,Food Safety,*,*,*,*,*,*,*
+A,Food Service Worker,5.8823529411764705E-2,0.529,0.588,17,1,9,10
+A,Game Design And Development,0.200,0.200,0.400,5,1,1,2
+A,General Arts And Science,9.4339622641509441E-2,0.481,0.566,106,10,51,60
+A,Graphic Design,0.000,0.600,0.600,15,0,9,9
+A,Health Informatics Technology,0.200,0.800,0.800,5,1,4,4
+A,Healthcare Environmental Services Management,*,*,*,*,*,*,*
+A,"Heating, Refrigeration And Air Conditionning Technician",0.385,0.462,0.769,13,5,6,10
+A,HEAVY DUTY EQUIP TECH CO-OP,0.143,0.143,0.214,14,2,2,3
+A,Hospitality And Tourism,0.000,0.600,0.600,5,0,3,3
+A,Hospitality And Tourism Administration,0.158,0.421,0.421,19,3,8,8
+A,Hospitality Foundations,*,*,*,*,*,*,*
+A,Hospitality Management,0.104,0.375,0.458,48,5,18,22
+A,"Hotel, Resort and Restaurant Management",0.000,0.600,0.600,5,0,3,3
+A,Human Resources Management,7.1428571428571425E-2,0.571,0.643,14,1,8,9
+A,Human Services Foundation,0.250,0.583,0.750,12,3,7,9
+A,International Business,0.400,0.200,0.400,5,2,1,2
+A,International Business Management,0.000,0.600,0.600,5,0,3,3
+A,Investment Sales Assistant,0.000,0.778,0.778,9,0,7,7
+A,Journalism - Print And Broadcast,0.200,0.267,0.433,30,6,8,13
+A,Law Clerk,0.214,0.429,0.619,42,9,18,26
+A,Logistics And Supply Chain Management,*,*,*,*,*,*,*
+A,Massage Therapy,6.6666666666666666E-2,0.200,0.267,15,1,3,4
+A,Mechanical Engineering Technician,0.200,0.400,0.600,5,1,2,3
+A,Mechanical Engineering Technology,0.040,0.320,0.360,25,1,8,9
+A,Media Arts - Interactive Multimedia,*,*,*,*,*,*,*
+A,Medical Laboratory Assistant,2.564102564102564E-2,0.564,0.590,39,1,22,23
+A,Motive Power Technician,8.2352941176470587E-2,0.259,0.329,85,7,22,28
+A,Motive Power Techniques - Small Powered Equipment,0.111,0.111,0.222,9,1,1,2
+A,New Media Design,*,*,*,*,*,*,*
+A,Occupational Therapist Assistant/physiotherapist Assistant (ota/pta),0.000,0.474,0.474,19,0,9,9
+A,Office Administration - Executive,5.8823529411764705E-2,0.588,0.588,17,1,10,10
+A,Office Administration - General,0.143,0.286,0.429,7,1,2,3
+A,Office Administration - Legal,0.167,0.722,0.778,18,3,13,14
+A,Office Administration - Medical,9.8591549295774641E-2,0.423,0.507,71,7,30,36
+A,Paramedic,6.6666666666666666E-2,0.200,0.267,15,1,3,4
+A,Payroll Management,*,*,*,*,*,*,*
+A,Personal Financial Services,0.000,0.812,0.812,16,0,13,13
+A,Personal Support Worker,2.9411764705882353E-2,0.618,0.647,34,1,21,22
+A,Pharmacy Technician,3.0303030303030304E-2,0.364,0.394,33,1,12,13
+A,Police Foundations,0.141,0.354,0.455,99,14,35,45
+A,Practical Nursing,4.0540540540540543E-2,0.550,0.586,222,9,122,130
+A,Pre-business,0.389,0.333,0.611,18,7,6,11
+A,Pre-media,0.235,0.294,0.471,17,4,5,8
+A,Preparatory Health Sciences,0.308,0.462,0.769,13,4,6,10
+A,Pre-service Firefighter Education And Training,6.6666666666666666E-2,0.400,0.467,15,1,6,7
+A,Pre-technology,0.200,0.200,0.400,10,2,2,4
+A,Project Management,0.000,0.760,0.760,25,0,19,19
+A,Public Relations,2.2222222222222223E-2,0.489,0.489,45,1,22,22
+A,Recreation And Leisure Services,0.200,0.300,0.500,10,2,3,5
+A,REFRIGERATION & A/C MEC-MECH ENG TECH,*,*,*,*,*,*,*
+A,Research Analyst,0.000,0.571,0.571,7,0,4,4
+A,Social Service Worker,0.127,0.557,0.658,79,10,44,52
+A,Software Engineering Technician,0.143,0.429,0.571,7,1,3,4
+A,Software Engineering Technology,0.156,0.406,0.562,32,5,13,18
+A,Sports Journalism,0.000,0.818,0.818,11,0,9,9
+A,Tourism And Travel,3.0303030303030304E-2,0.545,0.576,33,1,18,19
+A,TRUCK & COACH TECH CO-OP,0.000,0.200,0.200,15,0,3,3
+A,Wellness And Lifestyle Management,0.000,0.462,0.462,13,0,6,6
+A,ALL Programs - COLLEGE A,9.6186297671279106E-2,0.454,0.532,2963,285,1346,1576
+,,,,,,,,
+,ALL PROGRAMS - ALL COLLEGES - Weighted Average ,0.108,0.342,0.434,48832,5250,16722,21171
+
+
+Notes: ,,,,,,,,
+Loans enter repayment 6 month after full-time studies.,,,,,,,,
+Default rates and Repayment Assistance Plan Usage rates are measured 2 years after the end of the OSAP study year.,,,,,,,,
+"To be considered for repayment assistance borrowers must: be in good standing (not in default); apply to the National Student Loans Service Centre; and report post-study family income (borrower income, plus spousal income if applicable) and family size.",,,,,,,,
+Borrowers with post-study family income below the minimum threshold for their family size are exempt from making payments.,,,,,,,,
+Borrowers with post-study family income above the minimum threshold for their family size may qualify for a reduced monthly payment.,,,,,,,,
+90% of Repayment Assistance Plan Approvals are for zero payment.,,,,,,,,
+Each term of repayment assistance approval is for six months and borrowers can reapply.,,,,,,,,
+Default occurs upon reaching 270 days of missed payments.,,,,,,,,
+Borrowers who are in default are ineligible for Repayment Assistance.  ,,,,,,,,
+"* Number of Borrowers was fewer than five, program counts are not shown but counts are included in the institution total. ",,,,,,,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+
+,,,,,,,,

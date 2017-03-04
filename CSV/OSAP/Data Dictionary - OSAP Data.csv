@@ -1,0 +1,22 @@
+"Dataset: OSAP Loan Repayment Measures at 2 Years - Default Rates, Repayment Assistance Plan Usage Rates, Net Combined Rate",,
+Variable:,Definition:,Source:
+CollegeName,"3 Public Colleges are identified as A, B, and C","OSAP Database, Student Financial Assistance Branch"
+ProgramName,Name of Program Registered with OSAP,"OSAP Database, Student Financial Assistance Branch"
+#Borrowers,Number of borrowers who received OSAP loans in the base year and did not receive OSAP funding (grant or loan) in the following OSAP Academic Year. Borrowers and their repayment status is assigned to the last institution and program for which they received loans in the base year.,"OSAP Database, Student Financial Assistance Branch"
+#Defaults,Number of borrowers who received OSAP loans in the base year and did not receive OSAP funding (grant or loan) in the following OSAP Academic Year and were in default of OSAP loans at the 2-year measurement point.,"OSAP Database, Student Financial Assistance Branch"
+#RAP,Number of borrowers who received OSAP loans in the base year and did not receive OSAP funding (grant or loan) in the following OSAP Academic Year and received Repayment Assistance for one or more 6-month terms as of the the 2-year measurement point.,"OSAP Database, Student Financial Assistance Branch"
+Net#RapDefault,Number of borrowers who received OSAP loans in the base year and did not receive OSAP funding (grant or loan) in the following OSAP Academic Year and were in default or received repayment assistance as of the 2-year measurement point. Some borrowers who received repayment assistance were also in default at 2 years. ,"OSAP Database, Student Financial Assistance Branch"
+DefaultRate,"Equals #Defaults/#Borrowers.  For example, the 2015 OSAP default rate measures the percentage of 2012-13 OSAP borrowers, who did not receive OSAP funding for 2013-14, and were in default as of July 2015. 2012-13 OSAP borrowers started the study Year between August 1, 2012 and July 31, 2013.","OSAP Database, Student Financial Assistance Branch"
+RAPRate,"Equals #RAP/#Borrowers. For example, the 2015 OSAP repayment assistance plan usage rate measures the percentage of 2012-13 OSAP borrowers, who did not receive OSAP funding for 2013-14,  and received repayment assistance for one or more 6 month terms by July 2015.  ","OSAP Database, Student Financial Assistance Branch"
+NetCombinedRate,Equals Net#RAPDefault/#Borrowers.,"OSAP Database, Student Financial Assistance Branch"
+
+Notes: ,,
+Loans enter repayment 6 month after full-time studies.,,
+Default rates and Repayment Assistance Plan Usage rates are measured 2 years after the end of the OSAP study year.,,
+"To be considered for repayment assistance borrowers must: be in good standing (not in default); apply to the National Student Loans Service Centre; and report post-study family income (borrower income, plus spousal income if applicable) and family size.",,
+Borrowers with post-study family income below the minimum threshold for their family size are exempt from making payments.,,
+Borrowers with post-study family income above the minimum threshold for their family size may qualify for a reduced monthly payment.,,
+90% of Repayment Assistance Plan Approvals are for zero payment.,,
+Each term of repayment assistance approval is for six months and borrowers can reapply.,,
+Default occurs upon reaching 270 days of missed payments.,,
+Borrowers who are in default are ineligible for Repayment Assistance.  ,,
