@@ -46,22 +46,22 @@ Available data:
 
 https://drive.google.com/drive/folders/0B_LkTGwjvRGdV0FKTUpva0tYWk0?usp=sharing 
  
-Canadian Occupational Projection System: Ontario employment projections for 147 occupations which employ college graduates – Variables 2013 Ontario Job Futures Rating, Forecast Employment Levels, Forecast Employment Change, Forecast Attrition and Forecast Total Job Openings.
+**Canadian Occupational Projection System:** Ontario employment projections for 147 occupations which employ college graduates – Variables 2013 Ontario Job Futures Rating, Forecast Employment Levels, Forecast Employment Change, Forecast Attrition and Forecast Total Job Openings.
  
-Ontario Skills Passport: Skill profiles from 147 occupations which employ college graduates. Variables – Occupation Title, Occupational Classification (NOC), Occupation Description, Education Level, Occupation Task ID, and Skill Level.
+**Ontario Skills Passport:** Skill profiles from 147 occupations which employ college graduates. Variables – Occupation Title, Occupational Classification (NOC), Occupation Description, Education Level, Occupation Task ID, and Skill Level.
  
-Ontario Employment Profiles: College Survey results from Ontario's Colleges of Applied Arts and Technology: Variables – Employment Rate, Graduate Satisfaction, Student Satisfaction, Graduation Rate, Total College Graduates, Labour Force Participation Rate, Unemployment Rate, Average Annual Earnings, Time Needed to Get a Related Occupation, Graduates who Pursued Further Studies, Percentage of Total Graduate by Gender, Institution, Program, Program Cluster, and Region.
+**Ontario Employment Profiles:** College Survey results from Ontario's Colleges of Applied Arts and Technology: Variables – Employment Rate, Graduate Satisfaction, Student Satisfaction, Graduation Rate, Total College Graduates, Labour Force Participation Rate, Unemployment Rate, Average Annual Earnings, Time Needed to Get a Related Occupation, Graduates who Pursued Further Studies, Percentage of Total Graduate by Gender, Institution, Program, Program Cluster, and Region.
  
-College Information: Institution type, Institution Code, Institution Name, Street Address, City and Province, Postal Code, Telephone, Admissions Phone Number, and Website.
+**College Information:** Institution type, Institution Code, Institution Name, Street Address, City and Province, Postal Code, Telephone, Admissions Phone Number, and Website.
  
-College enrolment (2013-14): Variables – Age Group, Campus, Country of Citizenship, Credential Type, Gender, Level of Study, Major Classification of Instructional Program (CIP), Mother Tongue, Program, Province of Residence and Status in Canada.
+**College enrolment (2013-14):** Variables – Age Group, Campus, Country of Citizenship, Credential Type, Gender, Level of Study, Major Classification of Instructional Program (CIP), Mother Tongue, Program, Province of Residence and Status in Canada.
  
 OSAP Loan Repayment Measures: Variables – Default Rates, Repayment Assistance Plan Usage Rates, and Net Combined Rate for College A, B and C.
  
 Tweet to promote it:
- 
+--- 
 Help re-imagine the digital experience for students choosing a postsecondary education using labour market information, employment and education data! #BigData #OpenData
   
 Challenge description for the CodeAcross website:
- 
+--- 
 MAESD has a great deal of employment and education data, but needs your help to re-imagine it for public use!  MAESD wants to create a tool that would help students better understand the educational pathway options available and the corresponding linkages to required occupational skills and labour market demand. In addition, gaining insight on the student educational experience and program outcomes across Ontario will allow students to make informed decisions and expand their choices.
