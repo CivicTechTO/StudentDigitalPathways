@@ -1,0 +1,12 @@
+Tab Name/Nom du Onglet,Description of Contents English,Description of Contents  Français
+RecordDesc_DescEntrée,Descriptions for initial fields in all worksheets,Descriptions des champs de données initiaux dans toutes les feuilles de calcul
+GraphData_GraphiqueDonnées_Ref,Field descriptions for GraphData_GraphiqueDonnées worksheet,Descriptions des champs de données de la feuille de calcul GraphData_GraphiqueDonnées
+NOC_CNP_Ref,Field descriptions for NOC_CNP_1 and NOC_CNP_2 worksheets,Descriptions des champs de données des feuilles de calcul NOC_CNP_1 and NOC_CNP_2
+NAICS_SCIAN_Ref,Field descriptions for NAICS_SCIAN_1 and NAICS_SCIAN_2 worksheets,Descriptions des champs de données des feuilles de calcul NAICS_SCIAN_1 and NAICS_SCIAN_2
+ProgramNames_NomsDesProgrammes_Ref,Field descriptions for ProgramNames_NomsDesProgrammes  worksheet,Descriptions des champs de données de la feuille de calcul ProgramNames_NomsDesProgrammes
+GraphData_GraphiqueDonnées,"Data for all web displays, excluding occupation or industry destinations ","Les données pour les affichages du site Web, sauf les destinations d’occupation ou de l’industrie"
+NOC_CNP_1,Data for occupation destinations ,Les données pour les destinations d’occupation
+NOC_CNP_2,Data for occupation destinations - full-time related or partially related ,Les données pour les destinations d’occupation – liée au temps plein ou liée en partie
+NAICS_SCIAN_1,Data for industry destinations ,Les données pour les destinations de l’industrie
+NAICS_SCIAN_2,Data for industry destinations - full-time related or partially related,Les données pour les destinations de l’industrie - liée au temps plein ou liée en partie
+ProgNames_NomsDesProg,Data for local college program names ,Les données pour les noms des programmes des collèges locaux

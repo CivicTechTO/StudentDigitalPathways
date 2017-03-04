@@ -1,0 +1,88 @@
+Variable Name (Nom de la variable),Code Description English,Description du code français
+EMP_RATE¹,Employment rate,Taux d’emploi
+EMP_RANGE²,Employment rate,Taux d’emploi
+GRAD_SAT_RATE_AGG¹,Graduate satisfaction – combined satisfaction responses,Satisfaction des personnes diplômées – Réponses combinées
+GRAD_SAT_RANGE_AGG²,Graduate satisfaction – combined satisfaction responses,Satisfaction des personnes diplômées – Réponses combinées
+EMP_SAT_RATE_AGGREGATE¹,Employer satisfaction – combined satisfaction responses,Satisfaction des employeurs – Réponses combinées
+EMP_SAT_RANGE_AGG²,Employer satisfaction – combined satisfaction responses,Satisfaction des employeurs – Réponses combinées
+STUD_SAT_RATE¹,Student satisfaction – combined satisfaction responses,Satisfaction des étudiants – Réponses combinées
+STUD_SAT_RANGE²,Student satisfaction – combined satisfaction responses,Satisfaction des étudiants – Réponses combinées
+GRADUATION_RATE¹,Graduation rate,Taux d’obtention de diplôme
+GRADUATION_RANGES²,Graduation rate,Taux d’obtention de diplôme
+GRAD_COUNT,Total college graduates,Nombre total de personnes diplômées d’un programme collégial
+STUD_SAT_COUNT,Student satisfaction respondents,Participants au sondage sur la satisfaction des élèves
+NUM_RESP_RATE¹,Graduate response rate,Taux de réponse au sondage
+NUM_RESP_RANGE²,Graduate response rate,Taux de réponse au sondage
+IN_LF¹,Labour force participation rate,Taux de participation au marché du travail
+IN_LF_RANGE²,Labour force participation rate,Taux de participation au marché du travail
+UNEMP_RATE¹,Unemployment rate,Taux de chômage
+UNEMP_RANGE²,Unemployment rate,Taux de chômage
+EMP_FT_RATE¹,Employment rate – full-time,Taux d’emploi à temps plein
+EMP_FT_RANGE²,Employment rate – full-time,Taux d’emploi à temps plein
+EMP_FT_REL_RATE¹,Employment rate – Full-time related or partially related,Taux d’emploi à temps plein dans son domaine ou partiellement dans son domaine d’études
+EMP_FT_REL_RANGE²,Employment rate – Full-time related or partially related,Taux d’emploi à temps plein dans son domaine ou partiellement dans son domaine d’études
+ANN_SLRY_EMP_FT_RATE¹,Average annual earnings – full-time employment,Salaire annuel moyen – Emploi à temps plein
+ANN_SLRY_EMP_FT_RANGE²,Average annual earnings – full-time employment,Salaire annuel moyen – Emploi à temps plein
+ANN_CLRY_EMP_FT_RLTD_RATE¹,Average annual earnings – full-time related or partially related,Salaire annuel moyen – à temps plein dans son domaine ou partiellement dans son domaine d’études
+ANN_CLRY_EMP_FT_RLTD_RANGE²,Average annual earnings – full-time related or partially related,Salaire annuel moyen – à temps plein dans son domaine ou partiellement dans son domaine d’études
+EMP_PT_RATE¹,Employment rate – part-time,Taux d’emploi à temps partiel
+EMP_PT_RANGE²,Employment rate – part-time,Taux d’emploi à temps partiel
+PT_PSNL_RATE¹,Reasons for part-time employment - Personal reasons,Raisons derrière le travail à temps partiel - Raisons personnelles
+PT_PSNL_RANGE²,Reasons for part-time employment - Personal reasons,Raisons derrière le travail à temps partiel - Raisons personnelles
+PT_EDU_RATE¹,Reasons for part-time employment - Studies,Raisons derrière le travail à temps partiel - Études
+PT_EDU_RANGE²,Reasons for part-time employment - Studies,Raisons derrière le travail à temps partiel - Études
+PT_LM_PRESS_RATE¹,Reasons for part-time employment - Labour market pressures,Raisons derrière le travail à temps partiel - Pressions exercées sur le marché du travail
+PT_LM_PRESS_RANGE²,Reasons for part-time employment - Labour market pressures,Raisons derrière le travail à temps partiel - Pressions exercées sur le marché du travail
+PT_OTHER_RATE¹,Reasons for part-time employment - Other reasons,Raisons derrière le travail à temps partiel - Autres raisons
+PT_OTHER_RANGE²,Reasons for part-time employment - Other reasons,Raisons derrière le travail à temps partiel - Autres raisons
+PTEMP_ND_RATE¹,Reasons for part-time employment - Reason not disclosed,Raisons derrière le travail à temps partiel - Raison non indiquée
+PTEMP_ND_RANGE²,Reasons for part-time employment - Reason not disclosed,Raisons derrière le travail à temps partiel - Raison non indiquée
+PTEMP_UKNW_RATE¹,Reasons for part-time employment - Reason unknown,Raisons derrière le travail à temps partiel - Raison inconnue
+PTEMP_UKNW_RANGE²,Reasons for part-time employment - Reason unknown,Raisons derrière le travail à temps partiel - Raison inconnue
+JSD_RATE_FT_ALL_1¹,Time needed to get a job – full-time – Before graduation,Période d’attente avant d’obtenir un emploi à temps plein – Avant l’obtention du diplôme
+JSD_RANGEFT_ALL_1²,Time needed to get a job – full-time – Before graduation,Période d’attente avant d’obtenir un emploi à temps plein – Avant l’obtention du diplôme
+JSD_RATE_FT_ALL_2¹,Time needed to get a job – full-time – Month of graduation,Période d’attente avant d’obtenir un emploi à temps plein – Mois d’obtention du diplôme
+JSD_RANGEFT_ALL_2²,Time needed to get a job – full-time – Month of graduation,Période d’attente avant d’obtenir un emploi à temps plein – Mois d’obtention du diplôme
+JSD_RATE_FT_ALL_3¹,Time needed to get a job – full-time – 1 to 2 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein – 1 à 2 mois après l’obtention du diplôme
+JSD_RANGEFT_ALL_3²,Time needed to get a job – full-time – 1 to 2 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein – 1 à 2 mois après l’obtention du diplôme
+JSD_RATE_FT_ALL_4¹,Time needed to get a job – full-time – 3 to 4 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein – 3 à 4 mois après l’obtention du diplôme
+JSD_RANGEFT_ALL_4²,Time needed to get a job – full-time – 3 to 4 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein – 3 à 4 mois après l’obtention du diplôme
+JSD_RATE_FT_ALL_5¹,Time needed to get a job – full-time – 5 to 6 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein – 5 à 6 mois après l’obtention du diplôme
+JSD_RANGEFT_ALL_5²,Time needed to get a job – full-time – 3 to 4 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein – 3 à 4 mois après l’obtention du diplôme
+JSD_RATE_FT_RLTD_1¹,Time needed to get a full-time related or partially related job – Before graduation,Période d’attente avant d’obtenir un emploi à temps plein dans son domaine ou partiellement dans son domaine d’études - Avant l’obtention du diplôme
+JSD_RANGEFT_RLTD_1²,Time needed to get a full-time related or partially related job – Before graduation,Période d’attente avant d’obtenir un emploi à temps plein dans son domaine ou partiellement dans son domaine d’études - Avant l’obtention du diplôme
+JSD_RATE_FT_RLTD_2¹,Time needed to get a full-time related or partially related job – Month of graduation,Période d’attente avant d’obtenir un emploi à temps plein dans son domaine ou partiellement dans son domaine d’études - Mois d’obtention du diplôme
+JSD_RANGEFT_RLTD_2²,Time needed to get a full-time related or partially related job – Month of graduation,Période d’attente avant d’obtenir un emploi à temps plein dans son domaine ou partiellement dans son domaine d’études - Mois d’obtention du diplôme
+JSD_RATE_FT_RLTD_3¹,Time needed to get a full-time related or partially related job – 1 to 2 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein dans son domaine ou partiellement dans son domaine d’études - 1 à 2 mois après l’obtention du diplôme
+JSD_RANGEFT_RLTD_3²,Time needed to get a full-time related or partially related job – 1 to 2 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein dans son domaine ou partiellement dans son domaine d’études - 1 à 2 mois après l’obtention du diplôme
+JSD_RATE_FT_RLTD_4¹,Time needed to get a full-time related or partially related job – 3 to 4 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein dans son domaine ou partiellement dans son domaine d’études - 3 à 4 mois après l’obtention du diplôme
+JSD_RANGEFT_RLTD_4²,Time needed to get a full-time related or partially related job – 3 to 4 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein dans son domaine ou partiellement dans son domaine d’études - 3 à 4 mois après l’obtention du diplôme
+JSD_RATE_FT_RLTD_5¹,Time needed to get a full-time related or partially related job – 5 to 6 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein dans son domaine ou partiellement dans son domaine d’études - 5 à 6 mois après l’obtention du diplôme
+JSD_RANGEFT_RLTD_5²,Time needed to get a full-time related or partially related job – 5 to 6 months after graduation,Période d’attente avant d’obtenir un emploi à temps plein dans son domaine ou partiellement dans son domaine d’études - 5 à 6 mois après l’obtention du diplôme
+NOTIN_LF¹,Graduates not in labour force,Personnes diplômées inactives
+NOTIN_LF_RANGE²,Graduates not in labour force,Personnes diplômées inactives
+NOTIN_LF_PSNL_RATE¹,Reasons for not being in the labour force - Personal reasons,Raisons pourquoi des personnes sont inactives - Raisons personnelles
+NOTIN_LF_PSNL_RANGE²,Reasons for not being in the labour force - Personal reasons,Raisons pourquoi des personnes sont inactives - Raisons personnelles
+NOTIN_LF_EDUFT_RATE¹,Reasons for not being in the labour force - Studying full-time,Raisons pourquoi des personnes sont inactives - Études à temps plein
+NOTIN_LF_EDU_RANGE²,Reasons for not being in the labour force - Studying full-time,Raisons pourquoi des personnes sont inactives - Études à temps plein
+NOTIN_LF_EDUPT_RATE¹,Reasons for not being in the labour force - Studying part-time,Raisons pourquoi des personnes sont inactives - Études à temps partiel
+NOTIN_LF_EDUPT_RANGE²,Reasons for not being in the labour force - Studying part-time,Raisons pourquoi des personnes sont inactives - Études à temps partiel
+NOTIN_LF_OTHER_RATE¹,Reasons for not being in the labour force - Other reasons,Raisons pourquoi des personnes sont inactives - Autres raisons
+NOTIN_LF_OTHER_RANGE²,Reasons for not being in the labour force - Other reasons,Raisons pourquoi des personnes sont inactives - Autres raisons
+NOTIN_LF_LM_PRESS_RATE¹,Reasons for not being in the labour force - No job in field,Raisons pourquoi des personnes sont inactives - Manque de travail dans le domaine
+NOTIN_LF_LM_PRESS_RANGE²,Reasons for not being in the labour force - No job in field,Raisons pourquoi des personnes sont inactives - Manque de travail dans le domaine
+NOTIN_LF_UKNW_RATE¹,Reasons for not being in the labour force - Reason unknown,Raisons pourquoi des personnes sont inactives - Raison inconnue
+NOTIN_LF_UKNW_RANGE²,Reasons for not being in the labour force - Reason unknown,Raisons pourquoi des personnes sont inactives - Raison inconnue
+NOTIN_LF_ND_RATE¹,Reasons for not being in the labour force - Reason not disclosed,Raisons pourquoi des personnes sont inactives - Raison non indiquée
+NOTIN_LF_ND_RANGE²,Reasons for not being in the labour force - Reason not disclosed,Raisons pourquoi des personnes sont inactives - Raison non indiquée
+NOTINLF_FTSTUD_COLL¹,Institutions where graduates continued their education after graduation – College,Établissements où les personnes diplômées ont poursuivi leurs études après l’obtention de leur diplôme - Collège
+NOTINLF_FTSTUD_COLL_RANGE²,Institutions where graduates continued their education after graduation – College,Établissements où les personnes diplômées ont poursuivi leurs études après l’obtention de leur diplôme - Collège
+NOTINLF_FTSTUD_UNIV¹,Institutions where graduates continued their education after graduation – University,Établissements où les personnes diplômées ont poursuivi leurs études après l’obtention de leur diplôme - Université
+NOTINLF_FTSTUD_UNIV_RANGE²,Institutions where graduates continued their education after graduation – University,Établissements où les personnes diplômées ont poursuivi leurs études après l’obtention de leur diplôme - Université
+NOTINLF_FTSTUD_OTH¹,Institutions where graduates continued their education after graduation – Other,Établissements où les personnes diplômées ont poursuivi leurs études après l’obtention de leur diplôme - Autre
+NOTINLF_FTSTUD_OTH_RANGE²,Institutions where graduates continued their education after graduation – Other,Établissements où les personnes diplômées ont poursuivi leurs études après l’obtention de leur diplôme - Autre
+GENDER_PROP_RATE¹,Percentage of total graduates by gender,Pourcentage des personnes diplômées selon le sexe
+GENDER_PROP_RANGE²,Percentage of total graduates by gender,Pourcentage des personnes diplômées selon le sexe
+
+¹Midpoint - the point at which the variable is plotted on the graph ,¹Milieu – le point auquel la variable est tracée sur la graphe,
+²Range - the five percentage point range within which the original value falls ,²Gamme – la gamme de cinq points de pourcentage dans lequel la valeur originale se trouve ,

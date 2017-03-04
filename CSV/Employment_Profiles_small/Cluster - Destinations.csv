@@ -1,0 +1,318 @@
+#AGGR_TYPE_CD,OCCPTN_GRP_CD,OCCPTN_SGRP_CD,NOC_CODE_RANK,NOC_CODE_PERCENTAGE,NOC_CODE_CODE,NOC_DESCRIPTION_ENGLISH,NOC_DESCRIPTION_FRENCH
+Cl,A,A19,3,2,601,Corporate sales managers,Directeurs/directrices des ventes corporatives
+Cl,B,B14,2,5,621,Retail and wholesale trade managers,Directeurs/directrices - commerce de détail et de gros
+Cl,B,B06,2,4,621,Retail and wholesale trade managers,Directeurs/directrices - commerce de détail et de gros
+Cl,B,B12,3,4,621,Retail and wholesale trade managers,Directeurs/directrices - commerce de détail et de gros
+Cl,A,A06,4,3,621,Retail and wholesale trade managers,Directeurs/directrices - commerce de détail et de gros
+Cl,A,A03,5,4,621,Retail and wholesale trade managers,Directeurs/directrices - commerce de détail et de gros
+Cl,B,B17,4,6,631,Restaurant and food service managers,Directeurs/directrices de la restauration et des services alimentaires
+Cl,T,T04,2,10,711,Construction managers,Directeurs/directrices de la construction
+Cl,T,T01,3,7,711,Construction managers,Directeurs/directrices de la construction
+Cl,T,T07,4,4,911,Manufacturing managers,Directeurs/directrices de la fabrication
+Cl,B,B07,5,3,1111,Financial auditors and accountants,Vérificateurs/vérificatrices et comptables
+Cl,B,B11,2,14,1121,Human resources professionals,Professionnels/professionnelles en ressources humaines
+Cl,B,B12,1,19,1123,"Professional occupations in advertising, marketing and public relations","Professionnels/professionnelles en publicité, en marketing et en relations publiques"
+Cl,A,A16,1,53,1123,"Professional occupations in advertising, marketing and public relations","Professionnels/professionnelles en publicité, en marketing et en relations publiques"
+Cl,A,A04,2,12,1123,"Professional occupations in advertising, marketing and public relations","Professionnels/professionnelles en publicité, en marketing et en relations publiques"
+Cl,B,B10,3,7,1123,"Professional occupations in advertising, marketing and public relations","Professionnels/professionnelles en publicité, en marketing et en relations publiques"
+Cl,B,B06,3,4,1123,"Professional occupations in advertising, marketing and public relations","Professionnels/professionnelles en publicité, en marketing et en relations publiques"
+Cl,B,B14,4,3,1123,"Professional occupations in advertising, marketing and public relations","Professionnels/professionnelles en publicité, en marketing et en relations publiques"
+Cl,A,A01,5,4,1123,"Professional occupations in advertising, marketing and public relations","Professionnels/professionnelles en publicité, en marketing et en relations publiques"
+Cl,B,B18,4,6,1215,"Supervisors, supply chain, tracking and scheduling co-ordination occupations","Superviseurs/superviseures du personnel de coordination de la chaîne d'approvisionnement, du suivi et des horaires"
+Cl,B,B13,5,4,1215,"Supervisors, supply chain, tracking and scheduling co-ordination occupations","Superviseurs/superviseures du personnel de coordination de la chaîne d'approvisionnement, du suivi et des horaires"
+Cl,B,B10,1,14,1221,Administrative officers,Agents/agentes d'administration
+Cl,A,A19,3,2,1221,Administrative officers,Agents/agentes d'administration
+Cl,B,B04,5,4,1221,Administrative officers,Agents/agentes d'administration
+Cl,B,B06,5,3,1221,Administrative officers,Agents/agentes d'administration
+Cl,B,B11,1,17,1223,Human resources and recruitment officers,Agents/agentes des ressources humaines et de recrutement
+Cl,B,B13,1,11,1225,Purchasing agents and officers,Agents/agentes aux achats
+Cl,B,B16,2,10,1226,Conference and event planners,Planificateurs/planificatrices de congrès et d'événements
+Cl,A,A16,4,2,1226,Conference and event planners,Planificateurs/planificatrices de congrès et d'événements
+Cl,B,B04,1,19,1241,Administrative assistants,Adjoints administratifs/adjointes administratives
+Cl,B,B10,2,13,1241,Administrative assistants,Adjoints administratifs/adjointes administratives
+Cl,A,A19,3,2,1241,Administrative assistants,Adjoints administratifs/adjointes administratives
+Cl,B,B02,4,5,1241,Administrative assistants,Adjoints administratifs/adjointes administratives
+Cl,A,A16,5,2,1241,Administrative assistants,Adjoints administratifs/adjointes administratives
+Cl,B,B11,5,4,1241,Administrative assistants,Adjoints administratifs/adjointes administratives
+Cl,B,B03,1,37,1242,Legal administrative assistants,Adjoints administratifs juridiques/adjointes administratives juridiques
+Cl,B,B15,2,18,1242,Legal administrative assistants,Adjoints administratifs juridiques/adjointes administratives juridiques
+Cl,B,B02,1,27,1243,Medical administrative assistants,Adjoints administratifs médicaux/adjointes administratives médicales
+Cl,A,A19,3,2,1243,Medical administrative assistants,Adjoints administratifs médicaux/adjointes administratives médicales
+Cl,B,B07,2,10,1311,Accounting technicians and bookkeepers,Techniciens/techniciennes en comptabilité et teneurs/teneuses de livres
+Cl,B,B04,2,10,1411,General office support workers,Employés de soutien de bureau généraux/employées de soutien de bureau générales
+Cl,A,A19,3,2,1411,General office support workers,Employés de soutien de bureau généraux/employées de soutien de bureau générales
+Cl,B,B03,3,4,1411,General office support workers,Employés de soutien de bureau généraux/employées de soutien de bureau générales
+Cl,B,B02,3,10,1411,General office support workers,Employés de soutien de bureau généraux/employées de soutien de bureau générales
+Cl,A,A11,4,4,1411,General office support workers,Employés de soutien de bureau généraux/employées de soutien de bureau générales
+Cl,B,B10,4,5,1411,General office support workers,Employés de soutien de bureau généraux/employées de soutien de bureau générales
+Cl,B,B15,5,2,1411,General office support workers,Employés de soutien de bureau généraux/employées de soutien de bureau générales
+Cl,A,A19,2,4,1414,Receptionists,Réceptionnistes
+Cl,B,B02,2,12,1414,Receptionists,Réceptionnistes
+Cl,B,B04,3,7,1414,Receptionists,Réceptionnistes
+Cl,B,B11,3,10,1415,Personnel clerks,Commis des services du personnel
+Cl,B,B07,1,19,1431,Accounting and related clerks,Commis à la comptabilité et personnel assimilé
+Cl,B,B14,4,3,1431,Accounting and related clerks,Commis à la comptabilité et personnel assimilé
+Cl,A,A19,3,2,1432,Payroll clerks,Commis à la paye
+Cl,A,A11,2,14,1451,Library assistants and clerks,Commis et assistants/assistantes dans les bibliothèques
+Cl,B,B13,3,6,1523,Production logistics co-ordinators,Coordonnateurs/coordonnatrices de la logistique de la production
+Cl,B,B13,2,6,1524,Purchasing and inventory control workers,Commis aux achats et au contrôle de l'inventaire
+Cl,H,H01,4,4,1525,Dispatchers,Répartiteurs/répartitrices
+Cl,T,T15,5,2,1525,Dispatchers,Répartiteurs/répartitrices
+Cl,B,B18,5,5,1526,Transportation route and crew schedulers,Horairistes de trajets et d'équipages
+Cl,T,T17,5,5,2148,"Other professional engineers, n.e.c.","Autres ingénieurs/ingénieures, n.c.a."
+Cl,A,A18,2,8,2153,Urban and land use planners,Urbanistes et planificateurs/planificatrices de l'utilisation des sols
+Cl,T,T18,4,2,2154,Land surveyors,Arpenteurs-géomètres/arpenteuses-géomètres
+Cl,B,B01,4,7,2171,Information systems analysts and consultants,Analystes et consultants/consultantes en informatique
+Cl,B,B01,1,27,2174,Computer programmers and interactive media developers,Programmeurs/programmeuses et développeurs/développeuses en médias interactifs
+Cl,T,T06,5,6,2174,Computer programmers and interactive media developers,Programmeurs/programmeuses et développeurs/développeuses en médias interactifs
+Cl,B,B01,3,10,2175,Web designers and developers,Concepteurs/conceptrices et développeurs/développeuses Web
+Cl,T,T03,1,18,2211,Chemical technologists and technicians,Technologues et techniciens/techniciennes en chimie
+Cl,T,T07,3,5,2211,Chemical technologists and technicians,Technologues et techniciens/techniciennes en chimie
+Cl,T,T18,1,35,2212,Geological and mineral technologists and technicians,Technologues et techniciens/techniciennes en géologie et en minéralogie
+Cl,T,T03,3,7,2221,Biological technologists and technicians,Technologues et techniciens/techniciennes en biologie
+Cl,T,T11,4,5,2223,Forestry technologists and technicians,Technologues et techniciens/techniciennes en sciences forestières
+Cl,A,A08,1,31,2225,Landscape and horticulture technicians and specialists,Techniciens/techniciennes et spécialistes de l'aménagement paysager et de l'horticulture
+Cl,A,A18,1,14,2231,Civil engineering technologists and technicians,Technologues et techniciens/techniciennes en génie civil
+Cl,T,T11,1,7,2231,Civil engineering technologists and technicians,Technologues et techniciens/techniciennes en génie civil
+Cl,T,T04,1,16,2231,Civil engineering technologists and technicians,Technologues et techniciens/techniciennes en génie civil
+Cl,T,T18,2,8,2231,Civil engineering technologists and technicians,Technologues et techniciens/techniciennes en génie civil
+Cl,T,T09,1,12,2232,Mechanical engineering technologists and technicians,Technologues et techniciens/techniciennes en génie mécanique
+Cl,T,T08,3,4,2232,Mechanical engineering technologists and technicians,Technologues et techniciens/techniciennes en génie mécanique
+Cl,T,T16,3,8,2232,Mechanical engineering technologists and technicians,Technologues et techniciens/techniciennes en génie mécanique
+Cl,T,T14,5,3,2232,Mechanical engineering technologists and technicians,Technologues et techniciens/techniciennes en génie mécanique
+Cl,T,T07,2,10,2233,Industrial engineering and manufacturing technologists and technicians,Technologues et techniciens/techniciennes en génie industriel et en génie de fabrication
+Cl,T,T05,4,5,2233,Industrial engineering and manufacturing technologists and technicians,Technologues et techniciens/techniciennes en génie industriel et en génie de fabrication
+Cl,T,T09,5,4,2233,Industrial engineering and manufacturing technologists and technicians,Technologues et techniciens/techniciennes en génie industriel et en génie de fabrication
+Cl,T,T01,5,4,2234,Construction estimators,Estimateurs/estimatrices en construction
+Cl,T,T04,5,5,2234,Construction estimators,Estimateurs/estimatrices en construction
+Cl,T,T06,1,9,2241,Electrical and electronics engineering technologists and technicians,Technologues et techniciens/techniciennes en génie électronique et électrique
+Cl,T,T08,2,7,2241,Electrical and electronics engineering technologists and technicians,Technologues et techniciens/techniciennes en génie électronique et électrique
+Cl,T,T10,2,4,2241,Electrical and electronics engineering technologists and technicians,Technologues et techniciens/techniciennes en génie électronique et électrique
+Cl,T,T19,3,5,2242,Electronic service technicians (household and business equipment),Électroniciens/électroniciennes d'entretien (biens domestiques et commerciaux)
+Cl,T,T08,1,44,2243,Industrial instrument technicians and mechanics,Techniciens/techniciennes et mécaniciens/mécaniciennes d'instruments industriels
+Cl,T,T14,2,18,2244,"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors","Mécaniciens/mécaniciennes, techniciens/techniciennes et contrôleurs/contrôleuses d'avionique et d'instruments et d'appareillages électriques d'aéronef"
+Cl,T,T01,1,32,2251,Architectural technologists and technicians,Technologues et techniciens/techniciennes en architecture
+Cl,T,T05,1,37,2252,Industrial designers,Designers industriels/designers industrielles
+Cl,T,T01,2,16,2253,Drafting technologists and technicians,Technologues et techniciens/techniciennes en dessin
+Cl,A,A18,3,6,2253,Drafting technologists and technicians,Technologues et techniciens/techniciennes en dessin
+Cl,T,T05,3,6,2253,Drafting technologists and technicians,Technologues et techniciens/techniciennes en dessin
+Cl,T,T18,4,2,2254,Land survey technologists and technicians,Technologues et techniciens/techniciennes en arpentage
+Cl,A,A18,3,6,2255,Technical occupations in geomatics and meteorology,Personnel technique en géomatique et en météorologie
+Cl,T,T07,1,33,2261,Non-destructive testers and inspection technicians,Vérificateurs/vérificatrices et essayeurs/essayeuses des essais non destructifs
+Cl,T,T18,4,2,2261,Non-destructive testers and inspection technicians,Vérificateurs/vérificatrices et essayeurs/essayeuses des essais non destructifs
+Cl,T,T11,2,5,2263,Inspectors in public and environmental health and occupational health and safety,"Inspecteurs/inspectrices de la santé publique, de l'environnement et de l'hygiène et de la sécurité au travail"
+Cl,T,T10,3,4,2263,Inspectors in public and environmental health and occupational health and safety,"Inspecteurs/inspectrices de la santé publique, de l'environnement et de l'hygiène et de la sécurité au travail"
+Cl,T,T15,1,41,2271,"Air pilots, flight engineers and flying instructors","Pilotes, navigateurs/navigatrices et instructeurs/instructrices de pilotage du transport aérien"
+Cl,B,B18,2,8,2272,Air traffic controllers and related occupations,Contrôleurs aériens/contrôleuses aériennes et personnel assimilé
+Cl,T,T15,4,3,2272,Air traffic controllers and related occupations,Contrôleurs aériens/contrôleuses aériennes et personnel assimilé
+Cl,T,T17,4,8,2273,"Deck officers, water transport",Officiers/officières de pont du transport par voies navigables
+Cl,T,T17,2,10,2274,"Engineer officers, water transport",Officiers mécaniciens/officières mécaniciennes du transport par voies navigables
+Cl,T,T06,3,7,2281,Computer network technicians,Techniciens/techniciennes de réseau informatique
+Cl,B,B01,4,7,2281,Computer network technicians,Techniciens/techniciennes de réseau informatique
+Cl,B,B01,2,12,2282,User support technicians,Agents/agentes de soutien aux utilisateurs
+Cl,T,T06,2,9,2282,User support technicians,Agents/agentes de soutien aux utilisateurs
+Cl,H,H04,4,9,3012,Registered nurses and registered psychiatric nurses,Infirmiers autorisés/infirmières autorisées et infirmiers psychiatriques autorisés/infirmières psychiatriques autorisées
+Cl,A,A19,3,2,3144,Other professional occupations in therapy and assessment,Autres professionnels/professionnelles en thérapie et en diagnostic
+Cl,A,A15,4,4,3144,Other professional occupations in therapy and assessment,Autres professionnels/professionnelles en thérapie et en diagnostic
+Cl,H,H02,1,55,3213,Animal health technologists and veterinary technicians,Technologues en santé animale et techniciens/techniciennes vétérinaires
+Cl,H,H03,2,12,3219,Other medical technologists and technicians (except dental health),Autres technologues et techniciens/techniciennes des sciences de la santé (sauf soins dentaires)
+Cl,H,H03,3,10,3222,Dental hygienists and dental therapists,Hygiénistes et thérapeutes dentaires
+Cl,A,A19,3,2,3231,Opticians,Opticiens/opticiennes d'ordonnances
+Cl,H,H04,1,44,3233,Licensed practical nurses,Infirmiers auxiliaires/infirmières auxiliaires
+Cl,H,H01,1,37,3234,Paramedical occupations,Personnel ambulancier et paramédical
+Cl,H,H03,5,5,3236,Massage therapists,Massothérapeutes
+Cl,H,H01,3,5,3237,Other technical occupations in therapy and assessment,Autre personnel technique en thérapie et en diagnostic
+Cl,H,H03,4,9,3237,Other technical occupations in therapy and assessment,Autre personnel technique en thérapie et en diagnostic
+Cl,H,H03,1,12,3411,Dental assistants,Assistants/assistantes dentaires
+Cl,H,H04,2,18,3413,"Nurse aides, orderlies and patient service associates","Aides-infirmiers/aides-infirmières, aides-soignants/aides-soignantes et préposés/préposées aux bénéficiaires"
+Cl,A,A14,4,6,3413,"Nurse aides, orderlies and patient service associates","Aides-infirmiers/aides-infirmières, aides-soignants/aides-soignantes et préposés/préposées aux bénéficiaires"
+Cl,H,H01,5,4,3413,"Nurse aides, orderlies and patient service associates","Aides-infirmiers/aides-infirmières, aides-soignants/aides-soignantes et préposés/préposées aux bénéficiaires"
+Cl,A,A15,3,4,3414,Other assisting occupations in support of health services,Autre personnel de soutien des services de santé
+Cl,T,T15,3,6,4021,College and other vocational instructors,Enseignants/enseignantes au niveau collégial et autres instructeurs/instructrices en formation professionnelle
+Cl,A,A19,3,2,4164,"Social policy researchers, consultants and program officers","Recherchistes, experts-conseils/expertes-conseils et agents/agentes de programmes en politiques sociales"
+Cl,T,T03,2,9,4165,"Health policy researchers, consultants and program officers","Recherchistes, experts-conseils/expertes-conseils et agents/agentes de programmes en politiques de la santé"
+Cl,A,A15,5,4,4167,"Recreation, sports and fitness policy researchers, consultants and program officers","Recherchistes, experts-conseils/expertes-conseils et agents/agentes de programme en sports, en loisirs et en conditionnement physique"
+Cl,B,B15,1,36,4211,Paralegal and related occupations,Techniciens/techniciennes juridiques et personnel assimilé
+Cl,B,B03,3,4,4211,Paralegal and related occupations,Techniciens/techniciennes juridiques et personnel assimilé
+Cl,A,A19,1,58,4212,Social and community service workers,Travailleurs/travailleuses des services sociaux et communautaires
+Cl,A,A14,1,47,4212,Social and community service workers,Travailleurs/travailleuses des services sociaux et communautaires
+Cl,A,A13,1,48,4212,Social and community service workers,Travailleurs/travailleuses des services sociaux et communautaires
+Cl,A,A17,1,33,4212,Social and community service workers,Travailleurs/travailleuses des services sociaux et communautaires
+Cl,A,A10,3,5,4212,Social and community service workers,Travailleurs/travailleuses des services sociaux et communautaires
+Cl,A,A12,1,74,4214,Early childhood educators and assistants,Éducateurs/éducatrices et aides-éducateurs/aides-éducatrices de la petite enfance
+Cl,A,A13,2,10,4214,Early childhood educators and assistants,Éducateurs/éducatrices et aides-éducateurs/aides-éducatrices de la petite enfance
+Cl,A,A19,3,2,4214,Early childhood educators and assistants,Éducateurs/éducatrices et aides-éducateurs/aides-éducatrices de la petite enfance
+Cl,A,A17,4,3,4214,Early childhood educators and assistants,Éducateurs/éducatrices et aides-éducateurs/aides-éducatrices de la petite enfance
+Cl,A,A14,5,5,4214,Early childhood educators and assistants,Éducateurs/éducatrices et aides-éducateurs/aides-éducatrices de la petite enfance
+Cl,A,A17,2,6,4215,Instructors of persons with disabilities,Instructeurs/instructrices pour personnes ayant une déficience
+Cl,A,A13,5,3,4215,Instructors of persons with disabilities,Instructeurs/instructrices pour personnes ayant une déficience
+Cl,T,T19,2,5,4312,Firefighters,Pompiers/pompières
+Cl,A,A19,3,2,4313,Non-commissioned ranks of the Canadian Forces,Sous-officiers/sous-officières des Forces canadiennes
+Cl,A,A12,5,1,4411,Home child care providers,Gardiens/gardiennes d'enfants en milieu familial
+Cl,A,A14,3,8,4412,"Home support workers, housekeepers and related occupations","Aides familiaux résidents/aides familiales résidentes, aides de maintien à domicile et personnel assimilé"
+Cl,H,H04,3,13,4412,"Home support workers, housekeepers and related occupations","Aides familiaux résidents/aides familiales résidentes, aides de maintien à domicile et personnel assimilé"
+Cl,A,A14,2,11,4413,Elementary and secondary school teacher assistants,Aides-enseignants/aides-enseignantes aux niveaux primaire et secondaire
+Cl,A,A12,2,6,4413,Elementary and secondary school teacher assistants,Aides-enseignants/aides-enseignantes aux niveaux primaire et secondaire
+Cl,A,A19,3,2,4413,Elementary and secondary school teacher assistants,Aides-enseignants/aides-enseignantes aux niveaux primaire et secondaire
+Cl,A,A13,3,7,4413,Elementary and secondary school teacher assistants,Aides-enseignants/aides-enseignantes aux niveaux primaire et secondaire
+Cl,A,A11,5,3,5111,Librarians,Bibliothécaires
+Cl,A,A19,3,2,5122,Editors,"Réviseurs/réviseures, rédacteurs-réviseurs/rédactrices-réviseures et chefs du service des nouvelles"
+Cl,A,A02,2,11,5133,Musicians and singers,Musiciens/musiciennes et chanteurs/chanteuses
+Cl,A,A02,5,5,5135,Actors and comedians,Acteurs/actrices et comédiens/comédiennes
+Cl,A,A11,1,41,5211,Library and public archive technicians,Techniciens/techniciennes dans les bibliothèques et les services d'archives publiques
+Cl,A,A05,4,5,5212,Technical occupations related to museums and art galleries,Personnel technique des musées et des galeries d'art
+Cl,A,A01,4,4,5221,Photographers,Photographes
+Cl,A,A01,3,4,5225,Audio and video recording technicians,Techniciens/techniciennes en enregistrement audio et vidéo
+Cl,A,A07,1,24,5241,Graphic designers and illustrators,Designers graphiques et illustrateurs/illustratrices
+Cl,A,A01,1,10,5241,Graphic designers and illustrators,Designers graphiques et illustrateurs/illustratrices
+Cl,A,A04,1,23,5241,Graphic designers and illustrators,Designers graphiques et illustrateurs/illustratrices
+Cl,T,T05,2,7,5241,Graphic designers and illustrators,Designers graphiques et illustrateurs/illustratrices
+Cl,A,A18,3,6,5241,Graphic designers and illustrators,Designers graphiques et illustrateurs/illustratrices
+Cl,A,A05,5,5,5241,Graphic designers and illustrators,Designers graphiques et illustrateurs/illustratrices
+Cl,A,A04,4,11,5242,Interior designers and interior decorators,Designers d'intérieur et décorateurs/décoratrices d'intérieur
+Cl,A,A03,4,4,5243,"Theatre, fashion, exhibit and other creative designers","Ensembliers/ensemblières de théâtre, dessinateurs/dessinatrices de mode, concepteurs/conceptrices d'expositions et autres concepteurs/conceptrices art"
+Cl,A,A06,1,25,5244,Artisans and craftspersons,Artisans/artisanes
+Cl,A,A15,1,28,5254,"Program leaders and instructors in recreation, sport and fitness","Animateurs/animatrices et responsables de programmes de sports, de loisirs et de conditionnement physique"
+Cl,T,T08,4,2,6221,Technical sales specialists - wholesale trade,Spécialistes des ventes techniques - commerce de gros
+Cl,B,B17,4,6,6311,Food service supervisors,Superviseurs/superviseures des services alimentaires
+Cl,B,B05,2,11,6321,Chefs,Chefs
+Cl,B,B05,1,48,6322,Cooks,Cuisiniers/cuisinières
+Cl,A,A19,3,2,6322,Cooks,Cuisiniers/cuisinières
+Cl,B,B05,3,9,6332,Bakers,Boulangers-pâtissiers/boulangères-pâtissières
+Cl,A,A03,3,9,6341,Hairstylists and barbers,Coiffeurs/coiffeuses et barbiers/barbières
+Cl,A,A06,3,10,6344,"Jewellers, jewellery and watch repairers and related occupations","Bijoutiers/bijoutières, réparateurs/réparatrices de bijoux, horlogers-rhabilleurs/horlogères-rhabilleuses et personnel assimilé"
+Cl,H,H01,2,9,6346,Funeral directors and embalmers,Directeurs/directrices de funérailles et embaumeurs/embaumeuses
+Cl,B,B12,5,3,6411,Sales and account representatives - wholesale trade (non-technical),Représentants/représentantes des ventes et des comptes - commerce de gros (non-technique)
+Cl,B,B14,1,10,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A02,1,13,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A05,1,14,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A09,1,12,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B06,1,8,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A07,2,9,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A06,2,19,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B03,2,7,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A16,2,5,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A15,2,6,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A03,2,18,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B12,2,14,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A10,2,8,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A01,2,9,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A19,3,2,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A18,3,6,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A11,3,7,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,T,T13,3,2,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A08,3,6,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,H,H02,3,5,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,T,T11,3,5,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B15,3,6,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A12,3,2,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B16,3,9,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B07,3,5,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A17,3,5,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A04,3,12,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,T,T05,4,5,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,T,T10,4,3,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,T,T14,4,3,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B13,4,5,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,T,T12,4,4,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,T,T19,4,4,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,T,T01,4,5,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,A,A13,4,4,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B04,4,6,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B11,4,5,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,T,T15,5,2,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B02,5,5,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B05,5,4,6421,Retail salespersons,Vendeurs/vendeuses - commerce de détail
+Cl,B,B17,2,13,6513,Food and beverage servers,Serveurs/serveuses d'aliments et de boissons
+Cl,B,B14,3,5,6513,Food and beverage servers,Serveurs/serveuses d'aliments et de boissons
+Cl,A,A16,3,3,6513,Food and beverage servers,Serveurs/serveuses d'aliments et de boissons
+Cl,A,A06,4,3,6513,Food and beverage servers,Serveurs/serveuses d'aliments et de boissons
+Cl,A,A02,4,7,6513,Food and beverage servers,Serveurs/serveuses d'aliments et de boissons
+Cl,B,B16,4,6,6513,Food and beverage servers,Serveurs/serveuses d'aliments et de boissons
+Cl,A,A09,4,5,6513,Food and beverage servers,Serveurs/serveuses d'aliments et de boissons
+Cl,A,A04,5,3,6513,Food and beverage servers,Serveurs/serveuses d'aliments et de boissons
+Cl,A,A10,5,3,6513,Food and beverage servers,Serveurs/serveuses d'aliments et de boissons
+Cl,B,B16,1,12,6521,Travel counsellors,Conseillers/conseillères en voyages
+Cl,B,B18,3,6,6523,Airline ticket and service agents,Agents/agentes à la billetterie et aux services aériens
+Cl,B,B17,3,10,6525,Hotel front desk clerks,Réceptionnistes d'hôtel
+Cl,A,A10,1,25,6541,Security guards and related security service occupations,Agents/agentes de sécurité et personnel assimilé des services de sécurité
+Cl,B,B18,5,5,6541,Security guards and related security service occupations,Agents/agentes de sécurité et personnel assimilé des services de sécurité
+Cl,B,B07,4,5,6551,Customer services representatives - financial institutions,Représentants/représentantes au service à la clientèle - institutions financières
+Cl,A,A19,3,2,6552,Other customer and information services representatives,Autres préposés/autres préposées aux services d'information et aux services à la clientèle
+Cl,B,B10,4,5,6552,Other customer and information services representatives,Autres préposés/autres préposées aux services d'information et aux services à la clientèle
+Cl,B,B15,4,2,6552,Other customer and information services representatives,Autres préposés/autres préposées aux services d'information et aux services à la clientèle
+Cl,B,B12,4,3,6552,Other customer and information services representatives,Autres préposés/autres préposées aux services d'information et aux services à la clientèle
+Cl,B,B06,4,4,6552,Other customer and information services representatives,Autres préposés/autres préposées aux services d'information et aux services à la clientèle
+Cl,T,T15,5,2,6552,Other customer and information services representatives,Autres préposés/autres préposées aux services d'information et aux services à la clientèle
+Cl,A,A03,1,26,6562,"Estheticians, electrologists and related occupations","Esthéticiens/esthéticiennes, électrolystes et personnel assimilé"
+Cl,H,H02,2,14,6563,Pet groomers and animal care workers,Soigneurs/soigneuses d'animaux et travailleurs/travailleuses en soins des animaux
+Cl,A,A05,3,7,6611,Cashiers,Caissiers/caissières
+Cl,A,A09,3,7,6611,Cashiers,Caissiers/caissières
+Cl,H,H02,4,4,6611,Cashiers,Caissiers/caissières
+Cl,A,A12,4,1,6611,Cashiers,Caissiers/caissières
+Cl,B,B03,5,4,6611,Cashiers,Caissiers/caissières
+Cl,T,T03,5,4,6611,Cashiers,Caissiers/caissières
+Cl,A,A17,5,3,6611,Cashiers,Caissiers/caissières
+Cl,T,T08,4,2,6622,"Store shelf stockers, clerks and order fillers","Garnisseurs/garnisseuses de tablettes, commis et préposés/préposées aux commandes dans les magasins"
+Cl,A,A09,5,3,6622,"Store shelf stockers, clerks and order fillers","Garnisseurs/garnisseuses de tablettes, commis et préposés/préposées aux commandes dans les magasins"
+Cl,B,B17,1,14,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,A,A05,2,8,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,A,A09,2,8,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,A,A19,3,2,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,A,A02,3,8,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,A,A07,4,6,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,T,T07,4,4,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,B,B14,4,3,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,T,T10,4,3,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,T,T03,4,6,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,A,A10,4,3,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,B,B05,4,8,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,H,H02,5,3,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,B,B16,5,4,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,H,H04,5,2,6711,"Food counter attendants, kitchen helpers and related support occupations","Serveurs/serveuses au comptoir, aides de cuisine et personnel de soutien assimilé"
+Cl,T,T16,2,12,7231,Machinists and machining and tooling inspectors,Machinistes et vérificateurs/vérificatrices d'usinage et d'outillage
+Cl,T,T16,5,6,7232,Tool and die makers,Outilleurs-ajusteurs/outilleuses-ajusteuses
+Cl,T,T13,4,2,7235,Structural metal and platework fabricators and fitters,Assembleurs/assembleuses et ajusteurs/ajusteuses de plaques et de charpentes métalliques
+Cl,T,T13,4,2,7236,Ironworkers,Monteurs/monteuses de charpentes métalliques
+Cl,T,T13,1,55,7237,Welders and related machine operators,Soudeurs/soudeuses et opérateurs/opératrices de machines à souder et à braser
+Cl,T,T17,3,9,7237,Welders and related machine operators,Soudeurs/soudeuses et opérateurs/opératrices de machines à souder et à braser
+Cl,T,T06,4,7,7241,Electricians (except industrial and power system),Électriciens/électriciennes (sauf électriciens industriels/électriciennes industrielles et de réseaux électriques)
+Cl,T,T09,4,4,7251,Plumbers,Plombiers/plombières
+Cl,T,T12,1,22,7271,Carpenters,Charpentiers-menuisiers/charpentières-menuisières
+Cl,T,T04,3,8,7271,Carpenters,Charpentiers-menuisiers/charpentières-menuisières
+Cl,T,T19,5,4,7271,Carpenters,Charpentiers-menuisiers/charpentières-menuisières
+Cl,T,T12,2,18,7272,Cabinetmakers,Ébénistes
+Cl,A,A07,4,6,7303,"Supervisors, printing and related occupations",Surveillants/surveillantes de l'imprimerie et du personnel assimilé
+Cl,T,T16,1,16,7311,Construction millwrights and industrial mechanics,Mécaniciens/mécaniciennes de chantier et mécaniciens industriels/mécaniciennes industrielles
+Cl,T,T09,3,4,7311,Construction millwrights and industrial mechanics,Mécaniciens/mécaniciennes de chantier et mécaniciens industriels/mécaniciennes industrielles
+Cl,T,T02,2,13,7312,Heavy-duty equipment mechanics,Mécaniciens/mécaniciennes d'équipement lourd
+Cl,T,T09,2,8,7313,Refrigeration and air conditioning mechanics,Mécaniciens/mécaniciennes en réfrigération et en climatisation
+Cl,T,T10,4,3,7313,Refrigeration and air conditioning mechanics,Mécaniciens/mécaniciennes en réfrigération et en climatisation
+Cl,T,T14,1,28,7315,Aircraft mechanics and aircraft inspectors,Mécaniciens/mécaniciennes et contrôleurs/contrôleuses d'aéronefs
+Cl,T,T02,1,31,7321,"Automotive service technicians, truck and bus mechanics and mechanical repairers","Mécaniciens/mécaniciennes et réparateurs/réparatrices de véhicules automobiles, de camions et d'autobus"
+Cl,T,T02,5,3,7322,Motor vehicle body repairers,Débosseleurs/débosseleuses et réparateurs/réparatrices de carrosserie
+Cl,A,A07,2,9,7381,Printing press operators,Opérateurs/opératrices de presses à imprimer
+Cl,T,T17,1,26,7384,"Other trades and related occupations, n.e.c.","Autre personnel des métiers et personnel assimilé, n.c.a."
+Cl,T,T12,5,3,7441,Residential and commercial installers and servicers,"Personnel d'installation, d'entretien et de réparation d'équipement résidentiel et commercial"
+Cl,T,T15,5,2,7452,Material handlers,Manutentionnaires
+Cl,A,A19,3,2,7511,Transport truck drivers,Conducteurs/conductrices de camions de transport
+Cl,A,A19,3,2,7513,Taxi and limousine drivers and chauffeurs,"Chauffeurs/chauffeuses de taxi, chauffeurs/chauffeuses de limousine et chauffeurs/chauffeuses"
+Cl,T,T02,3,9,7521,Heavy equipment operators (except crane),Conducteurs/conductrices d'équipement lourd (sauf les grues)
+Cl,B,B18,1,12,7534,Air transport ramp attendants,Agents/agentes de piste dans le transport aérien
+Cl,T,T15,2,11,7534,Air transport ramp attendants,Agents/agentes de piste dans le transport aérien
+Cl,T,T14,3,7,7534,Air transport ramp attendants,Agents/agentes de piste dans le transport aérien
+Cl,T,T02,4,6,7535,Other automotive mechanical installers and servicers,Autres préposés/préposées à la pose et à l'entretien des pièces mécaniques d'automobiles
+Cl,T,T19,1,5,7611,Construction trades helpers and labourers,Aides de soutien des métiers et manoeuvres en construction
+Cl,T,T13,2,3,7611,Construction trades helpers and labourers,Aides de soutien des métiers et manoeuvres en construction
+Cl,T,T12,3,10,7611,Construction trades helpers and labourers,Aides de soutien des métiers et manoeuvres en construction
+Cl,T,T04,4,7,7611,Construction trades helpers and labourers,Aides de soutien des métiers et manoeuvres en construction
+Cl,T,T18,3,4,8231,Underground production and development miners,"Mineurs/mineuses d'extraction et de préparation, mines souterraines"
+Cl,A,A08,5,5,8255,"Contractors and supervisors, landscaping, grounds maintenance and horticulture services","Entrepreneurs/entrepreneuses et superviseurs/superviseures des services de l'aménagement paysager, de l'entretien des terrains et de l'horticulture"
+Cl,A,A19,3,2,8431,General farm workers,Ouvriers/ouvrières agricoles
+Cl,A,A08,4,5,8432,Nursery and greenhouse workers,Ouvriers/ouvrières de pépinières et de serres
+Cl,A,A08,2,18,8612,Landscaping and grounds maintenance labourers,Manoeuvres en aménagement paysager et en entretien des terrains
+Cl,T,T10,1,37,9241,Power engineers and power systems operators,Mécaniciens/mécaniciennes de centrales et opérateurs/opératrices de réseaux énergiques
+Cl,T,T10,4,3,9243,Water and waste treatment plant operators,Opérateurs/opératrices d'installations du traitement de l'eau et des déchets
+Cl,T,T11,5,4,9243,Water and waste treatment plant operators,Opérateurs/opératrices d'installations du traitement de l'eau et des déchets
+Cl,T,T16,4,7,9417,Machining tool operators,Opérateurs/opératrices de machines d'usinage
+Cl,A,A07,4,6,9471,Plateless printing equipment operators,Opérateurs/opératrices d'équipement d'impression sans plaque

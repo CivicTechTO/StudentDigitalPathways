@@ -1,0 +1,39 @@
+Dataset: Ontario Skills Passport (OSP),,
+Variable:,Definition:,Source:
+NOC,"The National Occupational Classification (NOC) 2011 is a resource providing occupational information on the Canadian labour market using a standardized taxonomy and framework.  NOC codes group job titles into a single four-digit code based on educational requirements and tasks involved. Each code can include more than one job title. (For example: Retail and wholesale trade managers (0621) include mulitple job titles. See http://noc.esdc.gc.ca/English/noc/QuickSearch.aspx?ver=16&val65=0621. NOC codes are organized by the educational requirements of each occupation. See http://noc.esdc.gc.ca/English/NOC/Matrix2011.aspx. 
+","Statistics Canada (http://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index)
+"
+NOC Major Grouping,Title of the occupation grouping contained by the 4-digit NOC code.,Ontario Skills Passport (http://www.skills.edu.gov.on.ca/OSP2Web/EDU/Welcome.xhtml)
+Occupation Title,Title of occupation,
+Occupation Description,Brief description of the occupation.,Ontario Skills Passport (http://www.skills.edu.gov.on.ca/OSP2Web/EDU/Welcome.xhtml)
+Occupation Education Level,"The occupations are grouped by secondary school pathways and the level of education or training required to enter and to perform the duties of the occupation.
+
+Level of Education or Training
+C - occupations usually require secondary school and/or occupation-specific training.
+D - occupations require some secondary school and on-the-job training.
+B - occupations usually require college education or apprenticeship training.
+A - occupations usually require university education.
+Mgt - occupations are management types of occupations.
+
+Secondary School ",Ontario Skills Passport (http://www.skills.edu.gov.on.ca/OSP2Web/EDU/Welcome.xhtml)
+Skill ID,"Essential skills include the skills associated with literacy (i.e. reading, writing, document use and numeracy) but goes beyond to also include thinking skills, oral communication and computer use. They provide the foundation for learning all other skills and enable people to better prepare for, get and keep a job, and adapt and succeed at work. 
+Each skill is identified by a number from 1 - 15. 
+1. Reading Text
+2. Writing
+3. Document Use
+4. Computer Use: 
+5. Oral Communication
+6. Money Math
+7. Scheduling or Budgeting and Accounting
+8. Measurement and Calculation
+9. Data Analysis
+10. Numerical Estimation
+11. Job Task Planning and Organizing
+12. Decision Making
+13. Problem Solving
+14. Finding Information
+15. Critical Thinking",Ontario Skills Passport (http://www.skills.edu.gov.on.ca/OSP2Web/EDU/Welcome.xhtml)
+Skill,Name of the Essential Skill for related task and skill level.,"Statistics Canada (http://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index)
+"
+Task Description,Each profile contains a list of example tasks that illustrate how each of the 15 essential skill is generally performed by the majority of workers in an occupation.   These tasks have been determined through interviews with workers in these occupations.,Ontario Skills Passport (http://www.skills.edu.gov.on.ca/OSP2Web/EDU/Welcome.xhtml)
+Task Complexity Level,"Each task has an estimated level of complexity, between 1 (basic) and 5 (advanced). The skill levels may vary based on the requirements of the workplace.",Ontario Skills Passport (http://www.skills.edu.gov.on.ca/OSP2Web/EDU/Welcome.xhtml)

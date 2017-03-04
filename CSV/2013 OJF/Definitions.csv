@@ -1,0 +1,22 @@
+Dataset: Candian Occupatonal Projection System (COPS),,
+Variable:,Definition:,Source:
+NOC,"The National Occupational Classification (NOC) 2011 is a resource providing occupational information on the Canadian labour market using a standardized taxonomy and framework.  NOC codes group job titles into a single four-digit code based on educational requirements and tasks involved. Each code can include more than one job title. (For example: Retail and wholesale trade managers (0621) include mulitple job titles. See http://noc.esdc.gc.ca/English/noc/QuickSearch.aspx?ver=16&val65=0621. NOC codes are organized by the educational requirements of each occupation. See http://noc.esdc.gc.ca/English/NOC/Matrix2011.aspx. 
+","Statistics Canada (http://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index)
+"
+Title,Name of the occupation assigned to the four-digit NOC code.,"Statistics Canada (http://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index)
+"
+2013 OJF Rating,"These job prospect ratings for the 2013-2017 projection period. Ontario Job Futures rates employment prospects as either “Above Average”, “Average” or “Below Average”. 
+
+Ontario Job Futures rates employment prospects as either “Above Average”, “Average” or “Below Average”. These ratings focus on the recent labour market conditions and projections of demand for new workers, but do not consider the existing or potential supply of workers (such as new graduates and immigrants). The employment prospect ratings are developed for Ontario as a whole, and may not reflect the labour market outlook in every region of the province.
+• “Above Average"" labour market conditions usually mean that, relative to the employment situation overall, there is a better likelihood of finding stable work in this occupation, and employment prospects are attractive or improving.
+• ""Average"" labour market conditions indicate that jobs are expected to be more difficult to find; the probability of unemployment is higher; and wages and salaries have recently increased at a slower pace than those occupations rated as ""Above Average."" On the other hand, jobs are easier to find; unemployment is less likely; and wages and salaries have recently increased at a faster pace than in those occupations rated ""Below Average"".
+• ""Below Average"" labour market conditions mean that it is more difficult to find stable work or employment prospects are not attractive or are deteriorating relative to those in other industries or occupations. For new entrants, such as people leaving school and immigrants, “Below Average” labour market conditions mean a relatively low probability of finding stable work in this occupation and lower potential for rising pay.","Ministry of Advanced Education and Skills Development http://www.tcu.gov.on.ca/eng/labourmarket/ojf/
+"
+Employment Levels,Employment level is the projected number of individuals employed in a given occupation.,"Employment and Social Development Canada (ESDC)
+"
+Attrition,Expected number of people needing to be replaced due to retirement and death.,"Employment and Social Development Canada (ESDC)
+"
+Job Openings,New Job Openings are the number of jobs that are expected to be created based on projected labour market demand in a given occupation. ,"Employment and Social Development Canada (ESDC)
+"
+Skill Level,"Skill levels refer to the typical education requirements for a given occupation.  Skill level O refers to jobs that are in Management. Skill level A refers to jobs that usually require university education. Skill level B refers to jobs that usually require college education or apprenticeship training. Skill level C refers to occupations that usually require secondary school and/or occupation-specific training. Skill level D refers to occupations where on-the-job training is required.
+",

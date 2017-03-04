@@ -1,0 +1,15 @@
+Dataset: Candian Occupatonal Projection System (COPS),,
+Variable:,Definition:,Source:
+NOC,"The National Occupational Classification (NOC) 2011 is a resource providing occupational information on the Canadian labour market using a standardized taxonomy and framework.  NOC codes group job titles into a single four-digit code based on educational requirements and tasks involved. Each code can include more than one job title. (For example: Retail and wholesale trade managers (0621) include mulitple job titles. See http://noc.esdc.gc.ca/English/noc/QuickSearch.aspx?ver=16&val65=0621. NOC codes are organized by the educational requirements of each occupation. See http://noc.esdc.gc.ca/English/NOC/Matrix2011.aspx. 
+","Statistics Canada (http://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index)
+"
+Title,Name of the occupation assigned to the four-digit NOC code.,"Statistics Canada (http://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index)
+"
+Employment Levels,Employment level is the projected number of individuals employed in a given occupation.,"Employment and Social Development Canada (ESDC)
+"
+Attrition,Expected number of people needing to be replaced due to retirement and death.,"Employment and Social Development Canada (ESDC)
+"
+Job Openings,New Job Openings are the number of jobs that are expected to be created based on projected labour market demand in a given occupation. ,"Employment and Social Development Canada (ESDC)
+"
+Skill Level,"Skill levels refer to the typical education requirements for a given occupation.  Skill level O refers to jobs that are in Management. Skill level A refers to jobs that usually require university education. Skill level B refers to jobs that usually require college education or apprenticeship training. Skill level C refers to occupations that usually require secondary school and/or occupation-specific training. Skill level D refers to occupations where on-the-job training is required.
+",

@@ -1,0 +1,14 @@
+Dataset: Candian Occupatonal Projection System (COPS),,
+Variable:,Definition:,Source:
+CIP,"CIP is designed to classify 'instructional programs', which are defined as follows:
+
+A combination of courses and experiences that is designed to accomplish a predetermined objective or set of allied objectives such as preparation for advanced study, qualification for an occupation or range of occupations or simply the increase of knowledge and understanding. (Chismore and Hill, A Classification of Educational Subject Matter, 1978, NCES, p. 165).
+
+Although CIP was specifically designed for the classification of instructional programs, it has also been used to classify courses, and will likely continue to be used for that purpose. CIP can also be used to classify and understand other units. For example, one might use CIP codes to classify institutions by programs offered, students and graduates by programs studied or faculty by programs taught.
+
+The organizing principle behind CIP is 'field of study'. At Statistics Canada, a field of study is defined as a ""discipline or area of learning or training"" (Statistics Canada, ARCHIVED – 2006 Census Dictionary, Catalogue no. 92-566-XIE).The Classification of Instructional Programs, Canada is a three-tiered hierarchical arrangement of classes with successive levels of disaggregation.
+
+The first level is made up of 'series', which are identified using two-digit codes. The series are the most general groupings of related programs. CIP Canada 2016 contains 49 series.
+The second level is made up of 'subseries', which are identified using four-digit codes. The subseries provide an intermediate grouping of programs that have comparable content and objectives. CIP Canada 2016 contains 387 subseries.
+The third level is made up of 'instructional program classes', which are identified using six-digit codes. Instructional program classes represent the specific instructional programs and are the most detailed level within CIP. They are the basic unit of analysis used in reporting instructional programs. CIP Canada 2016 contains 1,689 instructional program classes.","Statistics Canada (http://www.statcan.gc.ca/eng/subjects/standard/cip/2016/introduction)
+"
